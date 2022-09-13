@@ -8,12 +8,6 @@ using System.Threading.Tasks;
 
 namespace FindUniqueWords
 {
-	struct UniqueWord
-	{
-		string Word { get; set; } 
-		int Count { get; set; }
-	}
-
 	class Program
 	{
 		async static void Main(string[] args)
