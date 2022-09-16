@@ -1,0 +1,7 @@
+N:\Projects\Visual Studio\FindUniqueWords\FindUniqueWords\obj\Release\FindUniqueWords.csproj.AssemblyReference.cache
+N:\Projects\Visual Studio\FindUniqueWords\FindUniqueWords\obj\Release\FindUniqueWords.csproj.CoreCompileInputs.cache
+N:\Projects\Visual Studio\FindUniqueWords\FindUniqueWords\bin\Release\FindUniqueWords.exe.config
+N:\Projects\Visual Studio\FindUniqueWords\FindUniqueWords\bin\Release\FindUniqueWords.exe
+N:\Projects\Visual Studio\FindUniqueWords\FindUniqueWords\bin\Release\FindUniqueWords.pdb
+N:\Projects\Visual Studio\FindUniqueWords\FindUniqueWords\obj\Release\FindUniqueWords.exe
+N:\Projects\Visual Studio\FindUniqueWords\FindUniqueWords\obj\Release\FindUniqueWords.pdb

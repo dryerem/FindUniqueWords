@@ -10,7 +10,7 @@ namespace FindUniqueWords
 {
 	class Program
 	{
-		async static void Main(string[] args)
+		async static Task Main(string[] args)
 		{
 			string filePath = args[0];
 			if (!File.Exists(filePath))
